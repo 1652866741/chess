@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "sourceMap": true,
+        "target": "es5",
+        "outDir": "dist",
+        "sourceMap": true,
+        "watch": true
+    }
+}
